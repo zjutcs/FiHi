@@ -2,7 +2,7 @@
 
 A hybrid-attention based HAR method using the fusion of IMU and Hi-res audio data. The relevant paper is at: https://ieeexplore.ieee.org/document/10980212
 
-### The original and processed data are at: https://zenodo.org/uploads/13838076
+### The original and processed data are at: https://zenodo.org/uploads/15347282
 ### DOI: 10.1109/TIM.2025.3565250
 
 If you use the dataset or mention the paper in an academic work, please cite: 

@@ -1,0 +1,26 @@
+              precision    recall  f1-score   support
+
+usemicrowave      0.497     0.617     0.550     18900
+  brushteeth      0.909     0.788     0.844     15000
+ browsevideo      0.000     0.000     0.000     15000
+  drinkwater      0.000     0.000     0.000     15000
+      frying      0.724     0.718     0.721     15000
+       lying      0.000     0.000     0.000     15000
+    flushing      0.368     0.331     0.348     15000
+  downstairs      0.691     0.567     0.623     12000
+    upstairs      0.532     0.929     0.676     12000
+     sitting      0.500     1.000     0.666     15000
+    standing      0.820     0.952     0.881     15000
+  switchdoor      0.535     0.021     0.041     16500
+      typing      0.653     0.744     0.696     15000
+     jumping      0.932     0.839     0.883     15000
+     running      0.960     0.941     0.951     15000
+     walking      0.923     1.000     0.960     15000
+   washhands      1.000     0.780     0.876     15000
+     writing      0.591     0.983     0.738     15000
+ switchlight      0.883     0.489     0.630     15000
+      eating      0.059     0.164     0.087     15000
+
+    accuracy                          0.588    299400
+   macro avg      0.579     0.593     0.559    299400
+weighted avg      0.577     0.588     0.554    299400
